@@ -10,6 +10,6 @@ pip install PyNaCl fire
 ##Usage
 
 ```bash
-pyhton fencrypt encrypt input_file [output_file]
+python fencrypt encrypt input_file [output_file]
 ```
 
