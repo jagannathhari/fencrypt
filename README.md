@@ -7,16 +7,16 @@ File encrypter in Python
 pip install PyNaCl fire
 ```
 
-##Usage
+## Usage
 
-##To encrypt
+## To encrypt
 
 ```bash
 python fencrypt.py encrypt input_file [output_file]
 ```
 
 
-##To decrypt
+## To decrypt
 
 ```bash
 python fencrypt.py decrypt input_file [output_file]
